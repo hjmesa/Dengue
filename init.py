@@ -1,5 +1,5 @@
 repo_id = 'Dengue'
-github_repo = 'hjmesa/%s'%course_id
+github_repo = 'hjmesa/%s'%repo_id
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
 
 def get_last_modif_date(localdir):
